@@ -1,0 +1,6 @@
+D:\Sulvano\Website_Marketing
+
+python -m http.server
+
+localhost:8000
+
